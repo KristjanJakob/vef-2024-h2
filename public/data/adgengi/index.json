@@ -1,0 +1,22 @@
+{
+    "title": "Aðgengi",
+    "text": "Aðgengi í vefforritun er mikilvægt fyrir notendur með fötlun.",
+    "category": "adgengi",
+    "content": [
+      {
+        "type": "lectures",
+        "url": "lectures.json",
+        "slug": "lectures",
+        "title": "Námsefni",
+        "text": "Lærðu hvernig þú getur gert vefi aðgengilega."
+      },
+      {
+        "type": "keywords",
+        "url": "keywords.json",
+        "slug": "keywords",
+        "title": "Lykilhugtök",
+        "text": "Rifjaðu upp lykilhugtök um aðgengi."
+      }
+    ]
+  }
+  

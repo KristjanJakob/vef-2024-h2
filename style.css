@@ -39,3 +39,42 @@ nav ul li a {
 nav ul li a:hover {
   text-decoration: underline;
 }
+
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration:underline;
+}
+
+hr {
+  border: none;       
+  border-top: 1px solid #ccc; 
+  margin: 20px 0;       
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+

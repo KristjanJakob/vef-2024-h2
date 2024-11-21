@@ -1,6 +1,12 @@
 {
   "title": "HTML lykilhugtök",
   "category": "html",
+  "navigation": [
+    { "title": "Forsíða", "url": "/" },
+    { "title": "HTML", "url": "?type=html" },
+    { "title": "CSS", "url": "?type=css" },
+    { "title": "JavaScript", "url": "?type=javascript" }
+  ],
   "keywords": [
     {
       "title": "HyperText",

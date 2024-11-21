@@ -15,9 +15,7 @@ async function render(root, querystring) {
   }
 
   if (content) {
-    const contentJsonFile = `data/${type}/${content}.json`;
-    const contentJson = await fetcher(contentJsonFile);
-    return renderContentPage(root, mainIndexJson, contentJson);
+    return renderContentPage(root, type, content);
   }
 
   renderSubpage(root, mainIndexJson, type);
@@ -27,4 +25,5 @@ const root = document.querySelector('#app');
 window.addEventListener('popstate', () => render(root, window.location.search));
 
 render(root, window.location.search);
+
 

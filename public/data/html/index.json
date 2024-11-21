@@ -2,27 +2,37 @@
   "title": "HTML",
   "text": "HTML er grunnurinn að allri vefforritun.",
   "category": "html",
+  "navigation": [
+    { "title": "Forsíða", "url": "/" },
+    { "title": "HTML", "url": "?type=html" },
+    { "title": "CSS", "url": "?type=css" },
+    { "title": "JavaScript", "url": "?type=javascript" }
+  ],
   "content": [
     {
       "type": "lectures",
       "url": "lectures.json",
       "slug": "lectures",
       "title": "Námsefni",
-      "text": "Lærðu um HTML með því að fara yfir námsefnið."
+      "text": "Lærðu um HTML með því að fara yfir námsefnið.",
+      "link": "Skoða"
+
     },
     {
       "type": "keywords",
       "url": "keywords.json",
       "slug": "keywords",
       "title": "Lykilhugtök",
-      "text": "Rifjaðu upp og lærðu lykilhugtök um HTML."
+      "text": "Rifjaðu upp og lærðu lykilhugtök um HTML.",
+      "link": "Skoða"
     },
     {
       "type": "questions",
       "url": "questions.json",
       "slug": "questions",
       "title": "Spurningar",
-      "text": "Æfðu þig fyrir próf með því að svara spurningum."
+      "text": "Æfðu þig fyrir próf með því að svara spurningum.",
+      "link": "Skoða"
     }
   ]
 }

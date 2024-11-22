@@ -1,22 +1,29 @@
-body {
-  font-family: Arial, sans-serif;
+body, html {
   margin: 0;
   padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
 }
 
-header, footer {
+header {
   background-color: #f8f8f8;
   padding: 10px;
   text-align: center;
 }
 
 main {
-  padding: 10px;
+  padding: 20px;
   text-align: center;
+  flex: 1;
 }
 
-main {
-  padding: 20px;
+footer {
+  background-color: #f8f9fa;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
 }
 
 nav ul {
@@ -25,10 +32,6 @@ nav ul {
   display: flex;
   justify-content: center;
   gap: 10px;
-}
-
-nav ul li {
-  display: inline;
 }
 
 nav ul li a {
@@ -46,13 +49,13 @@ a {
 }
 
 a:hover {
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 hr {
-  border: none;       
-  border-top: 1px solid #ccc; 
-  margin: 20px 0;       
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
 }
 
 form {
@@ -71,7 +74,8 @@ button {
   border: none;
   cursor: pointer;
   border-radius: 5px;
-  margin-left: 20px;
+  display: block; /* Ensure it centers with margin auto */
+  margin: 10px auto;
 }
 
 button:hover {
@@ -81,5 +85,6 @@ button:hover {
 img {
   border-radius: 5px;
 }
+
 
 

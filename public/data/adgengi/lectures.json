@@ -1,0 +1,55 @@
+{
+    "title": "Aðgengi",
+    "category": "adgengi",
+    "navigation": [
+      { "title": "Forsíða", "url": "/" },
+      { "title": "HTML", "url": "?type=html" },
+      { "title": "CSS", "url": "?type=css" },
+      { "title": "JavaScript", "url": "?type=javascript" }
+    ],
+    "lectures": [
+      {
+        "slug": "adgengi",
+        "title": "Gott aðgengi er góður bissness",
+        "content": [
+          {
+            "type": "heading",
+            "data": "Aðgengi er ekki blótsyrði"
+          },
+          {
+            "type": "quote",
+            "data": "Fram til síðustu aldamóta sáu menn fyrir sér að aðgengi fælist í því að sérhanna vefsíður fyrir blinda og sjónskerta notendur. Aðrir gætu skoðað síðurnar eins og þær kæmu af vefkúnni. Þessi skilningur fólks var ekki alls kostar rangur á þeim tíma en nú er öldin önnur, bókstaflega."
+          },
+          {
+            "type": "quote",
+            "data": "Þannig er auðvelt að hanna vefi á aðgengilegan hátt án þess að skilja nákvæmlega hvernig hali með höfuðmús, sprund með skjástækkunarforrit, nörd með Nokiasíma eða verðbréfamiðlari með 23 tommu skjá skoðar þá."
+          },
+          {
+            "type": "heading",
+            "data": "Gerðu notendum lífið auðvelt"
+          },
+          {
+            "type": "quote",
+            "data": "Notendur þurfa ekki að vera hreyfihamlaðir til þess að eiga í vandræðum með að smella á innsláttarsvæði á vefsíðu. Það er nóg að vera með lítinn snertiskjá, reyna að gera þrjá hluti í einu eða hafa fengið sér fullmikinn bjór til að eiga í vandræðum með það. Ef allir innsláttarreitir eru merktir með label tagi, sem tengt er við þá er fókus færður í reitinn þegar notandi smellir á textann í merkinu. Að hafa merkingar á öllum reitum og tengja þær við innsláttarsvæðin er ekki bara ávinningur fyrir hreyfihamlaða, heldur líka fyrir blinda eða sjónskerta notendur (textinn er sjálfkrafa lesinn þegar notandinn kemur í reitinn) og fólk sem er að fylla inn upplýsingar úr litlum snertiskjám. Þetta auðveldar notendum að sjá merkitextann og tilkynnir merkingu innsláttarreita sjálfkrafa fyrir notendur sem eru blindir og nota skjálestrarhugbúnað. Ekki má aftra notanda með þrjá þumalfingur frá því að slá kortanúmerið sitt inn í vefpöntunina úr símanum, eða hvað?"
+          },
+          {
+            "type": "heading",
+            "data": "Rannsóknir sýna ávinning af góðu aðgengi"
+          },
+          {
+            "type": "quote",
+            "data": "Rannsóknir benda til þess að það sé árangursríkt að bæta aðgengi að vefjum fyrirtækja og stofnana. Vefaðgengisumbætur getað skilað hagræðingu, tekjuaukningu, fleiri viðskiptavinum og betri upplifun notenda af vefsíðum. Frekari rannsókna er samt sem áður þörf á því hversu mikið bætt vefaðgengi skili sér beint í kassann hjá fyrirtækjum. Þær rannsóknir sem gerðar hafa verið benda þó til þess að fjárfesting í aðgengi skili sér margfalt til baka. Hér eru til staðar augljós sóknarfæri fyrir flesta aðila í íslenskri smásölu, netsölu og þjónustu, innanlands jafnt sem utan."
+          },
+          {
+            "type": "quote",
+            "data": "Ekki er hægt að lofa gulli og grænum skógum ef aðgengið er í lagi, en það hlýtur að vera spennandi að átta sig á að allt að fimmtungur samfélagsins bíður spenntur eftir að komast inn í vefheiminn ykkar, svo ekki sé minnst á betri vef fyrir snjallsímanotendur, betra aðgengi leitarvéla og almennt betri upplifun fyrir alla ykkar notendur og viðskiptavini."
+          },
+          {
+            "type": "quote",
+            "data": "Efni fengið úr fyrirlestri birkir2.html"
+          }
+          
+        ]
+      }
+    ]
+  }

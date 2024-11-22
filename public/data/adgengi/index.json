@@ -14,14 +14,8 @@
         "url": "lectures.json",
         "slug": "lectures",
         "title": "Námsefni",
-        "text": "Lærðu hvernig þú getur gert vefi aðgengilega."
-      },
-      {
-        "type": "keywords",
-        "url": "keywords.json",
-        "slug": "keywords",
-        "title": "Lykilhugtök",
-        "text": "Rifjaðu upp lykilhugtök um aðgengi."
+        "text": "Lærðu hvernig þú getur gert vefi aðgengilega.",
+        "link": "Skoða"
       }
     ]
   }

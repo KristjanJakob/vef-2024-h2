@@ -28,6 +28,9 @@
     "rollup": "^4.24.4",
     "source-map-js": "^1.2.1"
   },
+  "optionalDependencies": {
+    "fsevents": "^2.3.3"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

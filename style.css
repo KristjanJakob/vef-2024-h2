@@ -74,7 +74,7 @@ button {
   border: none;
   cursor: pointer;
   border-radius: 5px;
-  display: block; /* Ensure it centers with margin auto */
+  display: block; 
   margin: 10px auto;
 }
 

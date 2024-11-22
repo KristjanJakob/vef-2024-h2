@@ -2,12 +2,12 @@
     "title": "Aðgengi",
     "text": "Aðgengi í vefforritun er mikilvægt fyrir notendur með fötlun.",
     "category": "adgengi",
-    "navigation": [
-      { "title": "Forsíða", "url": "/" },
-      { "title": "HTML", "url": "?type=html" },
-      { "title": "CSS", "url": "?type=css" },
-      { "title": "JavaScript", "url": "?type=javascript" }
-    ],
+      "navigation": [
+    { "title": "Forsíða", "slug": "" },
+    { "title": "HTML", "slug": "html" },
+    { "title": "CSS", "slug": "css" },
+    { "title": "JavaScript", "slug": "javascript" }
+  ],
     "content": [
       {
         "type": "lectures",
